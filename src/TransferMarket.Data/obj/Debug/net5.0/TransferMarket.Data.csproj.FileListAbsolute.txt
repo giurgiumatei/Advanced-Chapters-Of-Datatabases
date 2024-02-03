@@ -1,0 +1,12 @@
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\bin\Debug\net5.0\TransferMarket.Data.deps.json
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\bin\Debug\net5.0\TransferMarket.Data.dll
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\bin\Debug\net5.0\TransferMarket.Data.pdb
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.csproj.AssemblyReference.cache
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.AssemblyInfoInputs.cache
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.AssemblyInfo.cs
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.csproj.CoreCompileInputs.cache
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.dll
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\refint\TransferMarket.Data.dll
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\TransferMarket.Data.pdb
+C:\Facultate\Master\Semestrul 3\CABD\Project\API\src\TransferMarket.Data\obj\Debug\net5.0\ref\TransferMarket.Data.dll
