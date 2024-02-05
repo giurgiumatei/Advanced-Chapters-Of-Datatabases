@@ -23,7 +23,8 @@ namespace TransferMarket.Business.Footballers.Handlers
         {
             var result = (await _context.FootballerHistories
                 .ToListAsync())
-                .Where(fh => fh.FootballerId == request.Id && fh.Timestamp.TrimMilliseconds() == request.Time.TrimMilliseconds())
+                .Where(fh => fh.FootballerId == request.Id && fh.Timestamp.TrimMilliseconds() <= request.Time.TrimMilliseconds())
+                .OrderByDescending(f => f.Timestamp)
                 .FirstOrDefault();
 
             if (result == null) { return null; }
